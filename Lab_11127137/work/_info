@@ -1,0 +1,83 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\ModelSim\Lab_11127137
+vFA
+Z1 !s100 0MIj?I:9?7Koff]MG>gJM3
+Z2 I@L2Zk8oEcJNWG[:DGFmkn2
+Z3 VY5j2^gTTX5VL9kj@olPz?2
+Z4 dd:\ModelSim
+Z5 w1709622246
+Z6 8d:\ModelSim\Lab01\FA.v
+Z7 Fd:\ModelSim\Lab01\FA.v
+L0 3
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -nologo|-work|D:\ModelSim\Lab_11127137\work\|d:\ModelSim\Lab01\FA.v|
+Z10 o-nologo -work D:\\ModelSim\\Lab_11127137\\work\\ -O0
+n@f@a
+Z11 !s108 1709622511.842000
+Z12 !s107 d:\ModelSim\Lab01\FA.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vfreq_div
+Z13 !s100 Q?VoCNU3zk64<:T`_Kjk73
+Z14 I6BoX?YZ=5_40GjNOb9iE]2
+Z15 V82gSRW4JGYHP6K[jPoY]_3
+R4
+Z16 w1676905590
+Z17 8d:\ModelSim\Lab_11127137\freq_div.v
+Z18 Fd:\ModelSim\Lab_11127137\freq_div.v
+L0 3
+R8
+r1
+31
+Z19 !s90 -nologo|-work|D:\ModelSim\Lab_11127137\work\|d:\ModelSim\Lab_11127137\freq_div.v|
+R10
+Z20 !s108 1709622175.380000
+Z21 !s107 d:\ModelSim\Lab_11127137\freq_div.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vfreq_div_test
+Z22 !s100 j@[V@gEKcZ9XbP`f:>Eo90
+Z23 I=G@^R^k;H6N[gjcf<5bBJ2
+Z24 V[@?WjGb_DanQgL@W]LQkc1
+R4
+Z25 w1676905962
+Z26 8d:\ModelSim\Lab_11127137\freq_div_test.v
+Z27 Fd:\ModelSim\Lab_11127137\freq_div_test.v
+L0 3
+R8
+r1
+31
+Z28 !s90 -nologo|-work|D:\ModelSim\Lab_11127137\work\|d:\ModelSim\Lab_11127137\freq_div_test.v|
+R10
+Z29 !s108 1709622148.016000
+Z30 !s107 d:\ModelSim\Lab_11127137\freq_div_test.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTM
+!i10b 1
+Z31 !s100 @5zSbSUM2B@SQ5`g;aU=T2
+Z32 I=SB?B?k0:Wcn=PC3OV>[D0
+Z33 VL?;<FH^65P8U7On2P:_AU0
+R4
+Z34 w1709622383
+Z35 8d:\ModelSim\Lab01\TM.v
+Z36 Fd:\ModelSim\Lab01\TM.v
+L0 3
+R8
+r1
+!s85 0
+31
+!s108 1709622867.086000
+!s107 d:\ModelSim\Lab01\TM.v|
+Z37 !s90 -nologo|-work|D:\ModelSim\Lab_11127137\work\|d:\ModelSim\Lab01\TM.v|
+!s101 -O0
+R10
+n@t@m
