@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\ModelSim\Lab02
+vFA
+Z1 Io9J4VHnolNXmEUaj]69Eb0
+Z2 VY5j2^gTTX5VL9kj@olPz?2
+Z3 dD:\ModelSim\Lab02
+Z4 w1709622246
+Z5 8D:/ModelSim/Lab02/FA.v
+Z6 FD:/ModelSim/Lab02/FA.v
+L0 3
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+n@f@a
+Z9 !s100 J4KBiW<]bFBeMYbRnK6;Y3
+Z10 !s108 1710212036.357000
+Z11 !s107 D:/ModelSim/Lab02/FA.v|
+Z12 !s90 -reportprogress|300|-work|work|D:/ModelSim/Lab02/FA.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vHA
+Z13 IigjoAS>MXU2oR:5i5ozl_0
+Z14 VhjbF<BlG:LI0=B8@nU94]0
+R3
+Z15 w1710210569
+Z16 8D:/ModelSim/Lab02/HA.v
+Z17 FD:/ModelSim/Lab02/HA.v
+L0 3
+R7
+r1
+31
+R8
+n@h@a
+Z18 !s100 G5QMH3Ie^ehE8e`WbVJFC1
+Z19 !s108 1710212036.508000
+Z20 !s107 D:/ModelSim/Lab02/HA.v|
+Z21 !s90 -reportprogress|300|-work|work|D:/ModelSim/Lab02/HA.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vRCA4
+Z22 IbgYlf:K2LK[[`[F92eDQ70
+Z23 V[XNf^Y5@28A=V`ZB7e`YD2
+R3
+Z24 w1710210997
+Z25 8D:/ModelSim/Lab02/RCA4.v
+Z26 FD:/ModelSim/Lab02/RCA4.v
+L0 3
+R7
+r1
+31
+R8
+Z27 n@r@c@a4
+Z28 !s100 VInEkU_3f]:0BZ2cOn8gO1
+Z29 !s108 1710212036.578000
+Z30 !s107 D:/ModelSim/Lab02/RCA4.v|
+Z31 !s90 -reportprogress|300|-work|work|D:/ModelSim/Lab02/RCA4.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTM_RCA4
+!i10b 1
+!s100 0jR25Xl2i_Zb1NAAaz`J:3
+IhSQbN<CA?^T4DYGTKoeQZ1
+Z32 VmGWH^I4?n@;a7>nGRD^O]2
+R3
+w1710229711
+Z33 8D:/ModelSim/Lab02/TM_RCA4.v
+Z34 FD:/ModelSim/Lab02/TM_RCA4.v
+L0 3
+R7
+r1
+!s85 0
+31
+!s108 1710229785.529000
+!s107 D:/ModelSim/Lab02/TM_RCA4.v|
+Z35 !s90 -reportprogress|300|-work|work|D:/ModelSim/Lab02/TM_RCA4.v|
+!s101 -O0
+R8
+Z36 n@t@m_@r@c@a4
