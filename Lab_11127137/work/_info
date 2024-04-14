@@ -82,22 +82,22 @@ Z39 !s107 d:\ModelSim\Lab03\HA.v|
 !s85 0
 !s101 -O0
 vMux_4to1
-Z40 Ik8GNFZf5bNGQ3M`PD9c;U2
+Z40 I?BcKZF68IjMbDHfkZ8WDW2
 Z41 VRIHckNjR=;kbQ:N6<_;H72
 R4
-Z42 w1712577866
-Z43 8d:\ModelSim\Lab04\Mux_4to1.v
-Z44 Fd:\ModelSim\Lab04\Mux_4to1.v
+Z42 w1713110861
+Z43 8d:\ModelSim\Lab05\Mux_4to1_2.v
+Z44 Fd:\ModelSim\Lab05\Mux_4to1_2.v
 L0 3
 R8
 r1
 31
-Z45 !s90 -nologo|-work|D:\ModelSim\Lab_11127137\work\|d:\ModelSim\Lab04\Mux_4to1.v|
+Z45 !s90 -nologo|-work|D:\ModelSim\Lab_11127137\work\|d:\ModelSim\Lab05\Mux_4to1_2.v|
 R10
 Z46 n@mux_4to1
-Z47 !s100 =h6P31f354c^Vhi_?FHaL3
-Z48 !s108 1712577866.775000
-Z49 !s107 d:\ModelSim\Lab04\Mux_4to1.v|
+Z47 !s100 3LWh@MNNV_BmNC?c;A0oM0
+Z48 !s108 1713110861.785000
+Z49 !s107 d:\ModelSim\Lab05\Mux_4to1_2.v|
 !i10b 1
 !s85 0
 !s101 -O0
@@ -142,42 +142,42 @@ Z68 !s107 d:\ModelSim\Lab02\TM_RCA4.v|
 !s85 0
 !s101 -O0
 vTM_Mux_4to1
-Z69 Ihh3eb1M_WHM64J<S0MMN;2
-Z70 VeDe3i?^m6_m]PVjV7RE8Z3
+!i10b 1
+!s100 eXfaOQQDHZLOfYhoZ:8S:2
+IW`SDhZLzNgY?jX7aBJX<a0
+Z69 VeDe3i?^m6_m]PVjV7RE8Z3
 R4
-Z71 w1712578018
-Z72 8d:\ModelSim\Lab04\TM_Mux_4to1.v
-Z73 Fd:\ModelSim\Lab04\TM_Mux_4to1.v
+w1713111010
+Z70 8d:\ModelSim\Lab05\TM_Mux_4to1.v
+Z71 Fd:\ModelSim\Lab05\TM_Mux_4to1.v
 L0 3
 R8
 r1
-31
-R10
-Z74 n@t@m_@mux_4to1
-!i10b 1
-Z75 !s100 SS>hCEl:K>W>mLbkG;fT73
 !s85 0
-Z76 !s108 1712578018.208000
-Z77 !s107 d:\ModelSim\Lab04\TM_Mux_4to1.v|
-Z78 !s90 -nologo|-work|D:\ModelSim\Lab_11127137\work\|d:\ModelSim\Lab04\TM_Mux_4to1.v|
+31
+!s108 1713111010.981000
+!s107 d:\ModelSim\Lab05\TM_Mux_4to1.v|
+Z72 !s90 -nologo|-work|D:\ModelSim\Lab_11127137\work\|d:\ModelSim\Lab05\TM_Mux_4to1.v|
 !s101 -O0
+R10
+Z73 n@t@m_@mux_4to1
 vTM_RCA4
-!i10b 1
-Z79 !s100 [nX[0<RElPWPd0OkB_z8c1
-Z80 I9gG=IaG@n?UY[632z@1k`2
-Z81 VmGWH^I4?n@;a7>nGRD^O]2
+Z74 !s100 [nX[0<RElPWPd0OkB_z8c1
+Z75 I9gG=IaG@n?UY[632z@1k`2
+Z76 VmGWH^I4?n@;a7>nGRD^O]2
 R4
-Z82 w1710229711
-Z83 8d:\ModelSim\Lab03\TM_RCA4.v
-Z84 Fd:\ModelSim\Lab03\TM_RCA4.v
+Z77 w1710229711
+Z78 8d:\ModelSim\Lab03\TM_RCA4.v
+Z79 Fd:\ModelSim\Lab03\TM_RCA4.v
 L0 3
 R8
 r1
-!s85 0
 31
-!s108 1712578022.125000
-!s107 d:\ModelSim\Lab03\TM_RCA4.v|
-Z85 !s90 -nologo|-work|D:\ModelSim\Lab_11127137\work\|d:\ModelSim\Lab03\TM_RCA4.v|
-!s101 -O0
+Z80 !s90 -nologo|-work|D:\ModelSim\Lab_11127137\work\|d:\ModelSim\Lab03\TM_RCA4.v|
 R10
-Z86 n@t@m_@r@c@a4
+Z81 n@t@m_@r@c@a4
+Z82 !s108 1712578022.125000
+Z83 !s107 d:\ModelSim\Lab03\TM_RCA4.v|
+!i10b 1
+!s85 0
+!s101 -O0

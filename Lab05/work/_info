@@ -1,0 +1,45 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\ModelSim\Lab05
+vMux_4to1
+!i10b 1
+Z1 !s100 <jI??SbMfd2@1WGQingkL3
+Z2 I>b:><9>ie::J@3NYn5Dj10
+Z3 VRIHckNjR=;kbQ:N6<_;H72
+Z4 dD:\ModelSim\Lab05
+Z5 w1713110861
+Z6 8D:/ModelSim/Lab05/Mux_4to1_2.v
+Z7 FD:/ModelSim/Lab05/Mux_4to1_2.v
+L0 3
+Z8 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1713111251.534000
+!s107 D:/ModelSim/Lab05/Mux_4to1_2.v|
+Z9 !s90 -reportprogress|300|-work|work|D:/ModelSim/Lab05/Mux_4to1_2.v|
+!s101 -O0
+Z10 o-work work -O0
+Z11 n@mux_4to1
+vTM_Mux_4to1
+Z12 IDDZ>a]m7@ck195AAEKio?1
+Z13 VeDe3i?^m6_m]PVjV7RE8Z3
+R4
+Z14 w1713111010
+Z15 8D:/ModelSim/Lab05/TM_Mux_4to1.v
+Z16 FD:/ModelSim/Lab05/TM_Mux_4to1.v
+L0 3
+R8
+r1
+31
+R10
+Z17 n@t@m_@mux_4to1
+Z18 !s100 LR=^>m`3eUkFzn<KgBCZm1
+Z19 !s108 1713111031.907000
+Z20 !s107 D:/ModelSim/Lab05/TM_Mux_4to1.v|
+Z21 !s90 -reportprogress|300|-work|work|-O0|D:/ModelSim/Lab05/TM_Mux_4to1.v|
+!i10b 1
+!s85 0
+!s101 -O0
