@@ -1,0 +1,45 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\ModelSim\Lab06
+vCounter
+Z1 IDhT=@ZRc]^lN=?JkQ14<k0
+Z2 Vm<9M17IO2I_3TNLCRlVY71
+Z3 dD:\ModelSim\Lab06
+Z4 w1714401215
+Z5 8D:/ModelSim/Lab06/counter.v
+Z6 FD:/ModelSim/Lab06/counter.v
+L0 3
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 n@counter
+Z10 !s100 UBg@ML=337kbNdnZIXENZ2
+Z11 !s108 1714401699.154000
+Z12 !s107 D:/ModelSim/Lab06/counter.v|
+Z13 !s90 -reportprogress|300|-work|work|D:/ModelSim/Lab06/counter.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTM
+!i10b 1
+!s100 4Gz^l5]K3DJKfWFE9m?eH0
+IT5VFDO=04I5;PnUOLPm<j2
+Z14 VChLbPkc@oY[7<?C?j]<G72
+R3
+w1714401760
+Z15 8D:/ModelSim/Lab06/TM_counter.v
+Z16 FD:/ModelSim/Lab06/TM_counter.v
+L0 3
+R7
+r1
+!s85 0
+31
+!s108 1714401777.266000
+!s107 D:/ModelSim/Lab06/TM_counter.v|
+!s90 -reportprogress|300|-work|work|-O0|D:/ModelSim/Lab06/TM_counter.v|
+!s101 -O0
+R8
+n@t@m
