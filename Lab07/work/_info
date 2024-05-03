@@ -1,0 +1,45 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\ModelSim\Lab07
+vCounter_and_sel
+Z1 ID`Ha^0@`_?@ZZK1Xm>96M2
+Z2 VWJ@Mbo51z6HheYjIggYBB0
+Z3 dD:\ModelSim\Lab07
+Z4 w1714739524
+Z5 8D:/ModelSim/Lab07/counter_and_sel.v
+Z6 FD:/ModelSim/Lab07/counter_and_sel.v
+L0 3
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 n@counter_and_sel
+!i10b 1
+Z10 !s100 5f>6hCEHE?oDkMh1lTJ4O0
+!s85 0
+Z11 !s108 1714739921.609000
+Z12 !s107 D:/ModelSim/Lab07/counter_and_sel.v|
+Z13 !s90 -reportprogress|300|-work|work|D:/ModelSim/Lab07/counter_and_sel.v|
+!s101 -O0
+vTM
+!i10b 1
+!s100 Sl9TBM]Ej;RPg`eQ3SRiZ0
+I9f[E>YIl:eU10c701FYAZ0
+VChLbPkc@oY[7<?C?j]<G72
+R3
+w1714739716
+8D:/ModelSim/Lab07/TM_counter_and_sel.v
+FD:/ModelSim/Lab07/TM_counter_and_sel.v
+L0 3
+R7
+r1
+!s85 0
+31
+!s108 1714739923.482000
+!s107 D:/ModelSim/Lab07/TM_counter_and_sel.v|
+!s90 -reportprogress|300|-work|work|D:/ModelSim/Lab07/TM_counter_and_sel.v|
+!s101 -O0
+R8
+n@t@m
