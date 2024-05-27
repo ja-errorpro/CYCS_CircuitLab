@@ -1,0 +1,84 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\ModelSim\Lab_Exam
+vcount_hold_add
+Z1 I6J=PZSAU9FAMUCYA;AcG92
+Z2 VK>k5[Nl^F3l6YYla@;AC31
+Z3 dD:\ModelSim\Lab_Exam
+Z4 w1715667579
+Z5 8D:/ModelSim/Lab_Exam/count_hold_add.v
+Z6 FD:/ModelSim/Lab_Exam/count_hold_add.v
+L0 3
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -reportprogress|300|-work|work|D:/ModelSim/Lab_Exam/count_hold_add.v|
+Z9 o-work work -O0
+Z10 !s100 G`n`8RM64TFJX?fX8M0VS1
+Z11 !s108 1715667595.187000
+Z12 !s107 D:/ModelSim/Lab_Exam/count_hold_add.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vCounter
+Z13 !s100 ]gXhA0QJHbRBRd;SCKPO73
+Z14 IOkRS@>j9>Wl:<8`k9?`fC3
+Z15 VMVJzj=b9d>PX8KJAPA5Jh0
+R3
+Z16 w1715413576
+Z17 8D:/ModelSim/Lab_Exam/counter.v
+Z18 FD:/ModelSim/Lab_Exam/counter.v
+L0 3
+R7
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|D:/ModelSim/Lab_Exam/counter.v|
+R9
+Z20 n@counter
+Z21 !s108 1715667595.363000
+Z22 !s107 D:/ModelSim/Lab_Exam/counter.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vRCA3
+Z23 Iml0cm6IOL5]4H[j[F8S7z2
+Z24 VlS9G?AO]hUd1:zVmh5ZgU0
+R3
+Z25 w1715667572
+Z26 8D:/ModelSim/Lab_Exam/RCA3.v
+Z27 FD:/ModelSim/Lab_Exam/RCA3.v
+L0 3
+R7
+r1
+31
+Z28 !s90 -reportprogress|300|-work|work|D:/ModelSim/Lab_Exam/RCA3.v|
+R9
+Z29 n@r@c@a3
+Z30 !s100 DRn`4G5YV0LnJjSDYcaRM3
+Z31 !s108 1715667595.422000
+Z32 !s107 D:/ModelSim/Lab_Exam/RCA3.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTM
+!i10b 1
+!s100 Q@4_TATV_OU<WALDz7b=70
+IkSOOTikXg0_@@1h5<BW0A2
+Z33 VChLbPkc@oY[7<?C?j]<G72
+R3
+w1715667697
+Z34 8D:/ModelSim/Lab_Exam/TM.v
+Z35 FD:/ModelSim/Lab_Exam/TM.v
+L0 3
+R7
+r1
+!s85 0
+31
+!s108 1715667710.121000
+!s107 D:/ModelSim/Lab_Exam/TM.v|
+!s90 -reportprogress|300|-work|work|-O0|D:/ModelSim/Lab_Exam/TM.v|
+!s101 -O0
+R9
+n@t@m

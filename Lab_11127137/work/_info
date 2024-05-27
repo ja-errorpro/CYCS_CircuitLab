@@ -3,221 +3,579 @@ K3
 13
 cModel Technology
 Z0 dD:\ModelSim\Lab_11127137
-vCounter
-Z1 !s100 L`5<;h?HlYRQe[9XETE`K1
-Z2 IonDibeWcfUcb5O=fJbA3k1
-Z3 Vm<9M17IO2I_3TNLCRlVY71
-Z4 dd:\ModelSim
-Z5 w1714401215
-Z6 8d:\ModelSim\Lab06\counter.v
-Z7 Fd:\ModelSim\Lab06\counter.v
+vALU
+Z1 IeidnO`fELNYUT0BoPa7Ml0
+Z2 VCzaabM8N=RUY_S0<X_B]k3
+Z3 de:\Coding
+Z4 w1715260859
+Z5 8e:\Coding\Computer-Organization\alu\ALU.v
+Z6 Fe:\Coding\Computer-Organization\alu\ALU.v
 L0 3
-Z8 OV;L;10.1d;51
+Z7 OV;L;10.1d;51
 r1
 31
-Z9 !s90 -nologo|-work|D:\ModelSim\Lab_11127137\work\|d:\ModelSim\Lab06\counter.v|
-Z10 o-nologo -work D:\\ModelSim\\Lab_11127137\\work\\ -O0
-Z11 n@counter
-Z12 !s108 1714739313.200000
-Z13 !s107 d:\ModelSim\Lab06\counter.v|
+Z8 !s90 -nologo|-work|D:\ModelSim\Lab_11127137\work\|e:\Coding\Computer-Organization\alu\ALU.v|
+Z9 o-nologo -work D:\\ModelSim\\Lab_11127137\\work\\ -O0
+Z10 n@a@l@u
+Z11 !s100 WVk<@;Zk^:O9l?I`=j8_d0
+Z12 !s108 1715260859.678000
+Z13 !s107 e:\Coding\Computer-Organization\alu\ALU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vALUbit
+Z14 !s100 ;HlkHa41OU1>kJL55CY]I3
+Z15 I4aSj1N;^V9bW2cn2ZHA;P0
+Z16 VQQ[lEB6417W5o^mA`h@@i2
+R3
+Z17 w1715211522
+Z18 8e:\Coding\Computer-Organization\alu\ALUbit.v
+Z19 Fe:\Coding\Computer-Organization\alu\ALUbit.v
+L0 3
+R7
+r1
+31
+Z20 !s90 -nologo|-work|D:\ModelSim\Lab_11127137\work\|e:\Coding\Computer-Organization\alu\ALUbit.v|
+R9
+Z21 n@a@l@ubit
+Z22 !s108 1715260734.572000
+Z23 !s107 e:\Coding\Computer-Organization\alu\ALUbit.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vALUControl
+Z24 Ie[R97VXcGDZm@R^US@cl_0
+Z25 V7TEa10Hm>hg3IAIM8o3Ad3
+R3
+Z26 w1715256890
+Z27 8e:\Coding\Computer-Organization\alu\ALUControl.v
+Z28 Fe:\Coding\Computer-Organization\alu\ALUControl.v
+L0 2
+R7
+r1
+31
+Z29 !s90 -nologo|-work|D:\ModelSim\Lab_11127137\work\|e:\Coding\Computer-Organization\alu\ALUControl.v|
+R9
+Z30 n@a@l@u@control
+Z31 !s100 79T`agPJC;bQSVPdoc[dK3
+Z32 !s108 1715256890.461000
+Z33 !s107 e:\Coding\Computer-Organization\alu\ALUControl.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcount_hold_add
+Z34 I:V=I?oPeo]P;c62T99@XK0
+Z35 VK>k5[Nl^F3l6YYla@;AC31
+Z36 dd:\ModelSim
+Z37 w1715667579
+Z38 8d:\ModelSim\Lab_Exam\count_hold_add.v
+Z39 Fd:\ModelSim\Lab_Exam\count_hold_add.v
+L0 3
+R7
+r1
+31
+Z40 !s90 -nologo|-work|D:\ModelSim\Lab_11127137\work\|d:\ModelSim\Lab_Exam\count_hold_add.v|
+R9
+Z41 !s100 9gjIOzQo^7Oj7_gMNmdhU1
+Z42 !s108 1715667579.445000
+Z43 !s107 d:\ModelSim\Lab_Exam\count_hold_add.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vCounter
+Z44 IGQdInj[lCh@06BR4`Cg_l2
+Z45 VMVJzj=b9d>PX8KJAPA5Jh0
+R36
+Z46 w1715413576
+Z47 8d:\ModelSim\Lab_Exam\counter.v
+Z48 Fd:\ModelSim\Lab_Exam\counter.v
+L0 3
+R7
+r1
+31
+Z49 !s90 -nologo|-work|D:\ModelSim\Lab_11127137\work\|d:\ModelSim\Lab_Exam\counter.v|
+R9
+Z50 n@counter
+Z51 !s100 9]Rd3`6nm;Oa_W=G[hE3K1
+Z52 !s108 1715667019.220000
+Z53 !s107 d:\ModelSim\Lab_Exam\counter.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vCounter_16_Holder_Adder
+Z54 I[[gLVI@Fa:2UnbZYS4f7h1
+Z55 VIB2S_]Tn?m0S3YJR9;1g83
+R36
+Z56 w1715667091
+Z57 8d:\ModelSim\Lab_Exam\Counter_16_Holder_Adder.v
+Z58 Fd:\ModelSim\Lab_Exam\Counter_16_Holder_Adder.v
+L0 3
+R7
+r1
+31
+Z59 !s90 -nologo|-work|D:\ModelSim\Lab_11127137\work\|d:\ModelSim\Lab_Exam\Counter_16_Holder_Adder.v|
+R9
+Z60 n@counter_16_@holder_@adder
+Z61 !s100 Rgzea;We61zJz?310LC^<2
+Z62 !s108 1715667092.144000
+Z63 !s107 d:\ModelSim\Lab_Exam\Counter_16_Holder_Adder.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vCounter_and_sel
-Z14 I`REaN[03L_VE6dDlBafR93
-Z15 VWJ@Mbo51z6HheYjIggYBB0
-R4
-Z16 w1714739524
-Z17 8d:\ModelSim\Lab07\counter_and_sel.v
-Z18 Fd:\ModelSim\Lab07\counter_and_sel.v
+Z64 I`REaN[03L_VE6dDlBafR93
+Z65 VWJ@Mbo51z6HheYjIggYBB0
+R36
+Z66 w1714739524
+Z67 8d:\ModelSim\Lab07\counter_and_sel.v
+Z68 Fd:\ModelSim\Lab07\counter_and_sel.v
 L0 3
-R8
+R7
 r1
 31
-R10
-Z19 n@counter_and_sel
-Z20 !s100 5jW<Zmijg1UY;58d<ZO_90
-Z21 !s108 1714739524.173000
-Z22 !s107 d:\ModelSim\Lab07\counter_and_sel.v|
-Z23 !s90 -nologo|-work|D:\ModelSim\Lab_11127137\work\|d:\ModelSim\Lab07\counter_and_sel.v|
+R9
+Z69 n@counter_and_sel
+Z70 !s100 5jW<Zmijg1UY;58d<ZO_90
+Z71 !s108 1715667816.422000
+Z72 !s107 d:\ModelSim\Lab07\counter_and_sel.v|
+Z73 !s90 -nologo|-work|D:\ModelSim\Lab_11127137\work\|d:\ModelSim\Lab07\counter_and_sel.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDivider
+Z74 I22_UkaRYQd?iE2zg^EHo>0
+Z75 V9FU;QQ4eQ8z>2IX]oH5:h3
+R3
+Z76 w1715209887
+Z77 8e:\Coding\Computer-Organization\alu\Divider.v
+Z78 Fe:\Coding\Computer-Organization\alu\Divider.v
+L0 2
+R7
+r1
+31
+Z79 !s90 -nologo|-work|D:\ModelSim\Lab_11127137\work\|e:\Coding\Computer-Organization\alu\Divider.v|
+R9
+Z80 n@divider
+Z81 !s100 G?>hZ>_lMbI6mM]@WheW`3
+Z82 !s108 1715209887.477000
+Z83 !s107 e:\Coding\Computer-Organization\alu\Divider.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vFA
-Z24 IGzPE;O6O3V;R]CFOF4jSL2
-Z25 VY5j2^gTTX5VL9kj@olPz?2
-R4
-Z26 w1711972440
-Z27 8d:\ModelSim\Lab03\FA.v
-Z28 Fd:\ModelSim\Lab03\FA.v
+Z84 IGzPE;O6O3V;R]CFOF4jSL2
+Z85 VY5j2^gTTX5VL9kj@olPz?2
+R36
+Z86 w1711972440
+Z87 8d:\ModelSim\Lab03\FA.v
+Z88 Fd:\ModelSim\Lab03\FA.v
 L0 3
-R8
+R7
 r1
 31
-R10
+R9
 n@f@a
-Z29 !s100 JfL3We:Y>IE]k5g6TYReL0
-Z30 !s108 1714401129.251000
-Z31 !s107 d:\ModelSim\Lab03\FA.v|
-Z32 !s90 -nologo|-work|D:\ModelSim\Lab_11127137\work\|d:\ModelSim\Lab03\FA.v|
+Z89 !s100 JfL3We:Y>IE]k5g6TYReL0
+Z90 !s108 1714401129.251000
+Z91 !s107 d:\ModelSim\Lab03\FA.v|
+Z92 !s90 -nologo|-work|D:\ModelSim\Lab_11127137\work\|d:\ModelSim\Lab03\FA.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vfreq_div
-Z33 !s100 Q?VoCNU3zk64<:T`_Kjk73
-Z34 I6BoX?YZ=5_40GjNOb9iE]2
-Z35 V82gSRW4JGYHP6K[jPoY]_3
-R4
-Z36 w1676905590
-Z37 8d:\ModelSim\Lab_11127137\freq_div.v
-Z38 Fd:\ModelSim\Lab_11127137\freq_div.v
+Z93 !s100 Q?VoCNU3zk64<:T`_Kjk73
+Z94 I6BoX?YZ=5_40GjNOb9iE]2
+Z95 V82gSRW4JGYHP6K[jPoY]_3
+R36
+Z96 w1676905590
+Z97 8d:\ModelSim\Lab_11127137\freq_div.v
+Z98 Fd:\ModelSim\Lab_11127137\freq_div.v
 L0 3
-R8
+R7
 r1
 31
-Z39 !s90 -nologo|-work|D:\ModelSim\Lab_11127137\work\|d:\ModelSim\Lab_11127137\freq_div.v|
-R10
-Z40 !s108 1714401027.769000
-Z41 !s107 d:\ModelSim\Lab_11127137\freq_div.v|
+Z99 !s90 -nologo|-work|D:\ModelSim\Lab_11127137\work\|d:\ModelSim\Lab_11127137\freq_div.v|
+R9
+Z100 !s108 1714401027.769000
+Z101 !s107 d:\ModelSim\Lab_11127137\freq_div.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vfreq_div_test
-Z42 !s100 j@[V@gEKcZ9XbP`f:>Eo90
-Z43 I=G@^R^k;H6N[gjcf<5bBJ2
-Z44 V[@?WjGb_DanQgL@W]LQkc1
-R4
-Z45 w1676905962
-Z46 8d:\ModelSim\Lab_11127137\freq_div_test.v
-Z47 Fd:\ModelSim\Lab_11127137\freq_div_test.v
+Z102 !s100 j@[V@gEKcZ9XbP`f:>Eo90
+Z103 I=G@^R^k;H6N[gjcf<5bBJ2
+Z104 V[@?WjGb_DanQgL@W]LQkc1
+R36
+Z105 w1676905962
+Z106 8d:\ModelSim\Lab_11127137\freq_div_test.v
+Z107 Fd:\ModelSim\Lab_11127137\freq_div_test.v
 L0 3
-R8
+R7
 r1
 31
-Z48 !s90 -nologo|-work|D:\ModelSim\Lab_11127137\work\|d:\ModelSim\Lab_11127137\freq_div_test.v|
-R10
-Z49 !s108 1709622148.016000
-Z50 !s107 d:\ModelSim\Lab_11127137\freq_div_test.v|
+Z108 !s90 -nologo|-work|D:\ModelSim\Lab_11127137\work\|d:\ModelSim\Lab_11127137\freq_div_test.v|
+R9
+Z109 !s108 1709622148.016000
+Z110 !s107 d:\ModelSim\Lab_11127137\freq_div_test.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFullAdder
+Z111 !s100 AdAb]e[dMI98PR7XSgR1i2
+Z112 I]cgeVMdANMgd47A6>X>BS1
+Z113 VcII[::[2R5ZmPZ9a@hG292
+R3
+Z114 w1715067356
+Z115 8e:\Coding\Computer-Organization\alu\FullAdder.v
+Z116 Fe:\Coding\Computer-Organization\alu\FullAdder.v
+L0 3
+R7
+r1
+31
+Z117 !s90 -nologo|-work|D:\ModelSim\Lab_11127137\work\|e:\Coding\Computer-Organization\alu\FullAdder.v|
+R9
+Z118 n@full@adder
+Z119 !s108 1715069586.645000
+Z120 !s107 e:\Coding\Computer-Organization\alu\FullAdder.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vHA
-Z51 IbTKeLb<<<5EiU[eD4OoDk2
-Z52 VhjbF<BlG:LI0=B8@nU94]0
-R4
-Z53 w1711972472
-Z54 8d:\ModelSim\Lab03\HA.v
-Z55 Fd:\ModelSim\Lab03\HA.v
+Z121 IbTKeLb<<<5EiU[eD4OoDk2
+Z122 VhjbF<BlG:LI0=B8@nU94]0
+R36
+Z123 w1711972472
+Z124 8d:\ModelSim\Lab03\HA.v
+Z125 Fd:\ModelSim\Lab03\HA.v
 L0 3
-R8
+R7
 r1
 31
-R10
+R9
 n@h@a
-Z56 !s100 732O6Ih=[al;Hj8iCIof?2
-Z57 !s108 1714401130.255000
-Z58 !s107 d:\ModelSim\Lab03\HA.v|
-Z59 !s90 -nologo|-work|D:\ModelSim\Lab_11127137\work\|d:\ModelSim\Lab03\HA.v|
+Z126 !s100 732O6Ih=[al;Hj8iCIof?2
+Z127 !s108 1714401130.255000
+Z128 !s107 d:\ModelSim\Lab03\HA.v|
+Z129 !s90 -nologo|-work|D:\ModelSim\Lab_11127137\work\|d:\ModelSim\Lab03\HA.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vHiLo
+Z130 !s100 3TkDl<Lz@jaLOi=FlcbF^2
+Z131 I3LOJOjmD<9jd>G291<^3E0
+Z132 VZJC]P8[ZOXEbfhie@>RHM3
+R3
+Z133 w1715226736
+Z134 8e:\Coding\Computer-Organization\alu\HiLo.v
+Z135 Fe:\Coding\Computer-Organization\alu\HiLo.v
+L0 2
+R7
+r1
+31
+Z136 !s90 -nologo|-work|D:\ModelSim\Lab_11127137\work\|e:\Coding\Computer-Organization\alu\HiLo.v|
+R9
+Z137 n@hi@lo
+Z138 !s108 1715226736.697000
+Z139 !s107 e:\Coding\Computer-Organization\alu\HiLo.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMultiplier
+!i10b 1
+!s100 lI;<?2a5JRCj?5UO9?iL@1
+IgoMWLHh5HCmC<;@knH^9B2
+Z140 VoJh;4`P^m2Pco7c5=dloT3
+R3
+w1715693336
+Z141 8e:\Coding\Computer-Organization\alu\Multiplier.v
+Z142 Fe:\Coding\Computer-Organization\alu\Multiplier.v
+L0 2
+R7
+r1
+!s85 0
+31
+!s108 1715863147.706000
+!s107 e:\Coding\Computer-Organization\alu\Multiplier.v|
+Z143 !s90 -nologo|-work|D:\ModelSim\Lab_11127137\work\|e:\Coding\Computer-Organization\alu\Multiplier.v|
+!s101 -O0
+R9
+Z144 n@multiplier
+vMUX
+Z145 !s100 bH@;@FLC5WDO9`CiIzH3d2
+Z146 Izn:;Oh0P8QKXmRPE=g2IG0
+Z147 VQDmNkPc=TSk7@bXC^:=A43
+R3
+Z148 w1715216887
+Z149 8e:\Coding\Computer-Organization\alu\MUX.v
+Z150 Fe:\Coding\Computer-Organization\alu\MUX.v
+L0 2
+R7
+r1
+31
+Z151 !s90 -nologo|-work|D:\ModelSim\Lab_11127137\work\|e:\Coding\Computer-Organization\alu\MUX.v|
+R9
+Z152 n@m@u@x
+Z153 !s108 1715226688.619000
+Z154 !s107 e:\Coding\Computer-Organization\alu\MUX.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMUX2_1
+Z155 !s100 7Bo4NlJNZ;iEL4?mb6]k]1
+Z156 I?RkAY=<@:gE3cgeDKHZX>0
+Z157 V`2G`go3<o>]D0e1D55:Rb1
+R3
+Z158 w1715076801
+Z159 8e:\Coding\Computer-Organization\alu\MUX2_1.v
+Z160 Fe:\Coding\Computer-Organization\alu\MUX2_1.v
+L0 1
+R7
+r1
+31
+Z161 !s90 -nologo|-work|D:\ModelSim\Lab_11127137\work\|e:\Coding\Computer-Organization\alu\MUX2_1.v|
+R9
+Z162 n@m@u@x2_1
+Z163 !s108 1715209434.688000
+Z164 !s107 e:\Coding\Computer-Organization\alu\MUX2_1.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMux4_1
+Z165 I`EAhbLe:fZE<_6>0Wk[Zj2
+Z166 VWM`4k84=VI1O_oConG]?72
+R3
+Z167 w1715068923
+Z168 8e:\Coding\Computer-Organization\MUX4_1.v
+Z169 Fe:\Coding\Computer-Organization\MUX4_1.v
+L0 3
+R7
+r1
+31
+Z170 !s90 -nologo|-work|D:\ModelSim\Lab_11127137\work\|e:\Coding\Computer-Organization\MUX4_1.v|
+R9
+Z171 n@mux4_1
+Z172 !s100 <zaoci`=>oSfn@;=n=Zn:3
+Z173 !s108 1715068924.065000
+Z174 !s107 e:\Coding\Computer-Organization\MUX4_1.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMUX4_1
+Z175 I3oJeO6^75GOJA7f:7gC9M1
+Z176 VSdgB7T5?NLe34<k^Rig]B1
+R3
+R17
+Z177 8e:\Coding\Computer-Organization\alu\MUX4_1.v
+Z178 Fe:\Coding\Computer-Organization\alu\MUX4_1.v
+L0 1
+R7
+r1
+31
+R9
+Z179 n@m@u@x4_1
+Z180 !s100 NfmSM]mLfmCS21Ull?aRF0
+Z181 !s108 1715211663.331000
+Z182 !s107 e:\Coding\Computer-Organization\alu\MUX4_1.v|
+Z183 !s90 -nologo|-work|D:\ModelSim\Lab_11127137\work\|e:\Coding\Computer-Organization\alu\MUX4_1.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vMux_4to1
-Z60 !s100 =h6P31f354c^Vhi_?FHaL3
-Z61 Ik8GNFZf5bNGQ3M`PD9c;U2
-Z62 VRIHckNjR=;kbQ:N6<_;H72
-R4
-Z63 w1712577866
-Z64 8d:\ModelSim\Lab04\Mux_4to1.v
-Z65 Fd:\ModelSim\Lab04\Mux_4to1.v
+Z184 I2;kGJCBJB>UI0nK]f`N[l1
+Z185 VRIHckNjR=;kbQ:N6<_;H72
+R36
+Z186 w1713110834
+Z187 8d:\ModelSim\Lab05\Mux_4to1_1.v
+Z188 Fd:\ModelSim\Lab05\Mux_4to1_1.v
 L0 3
-R8
+R7
 r1
 31
-Z66 !s90 -nologo|-work|D:\ModelSim\Lab_11127137\work\|d:\ModelSim\Lab04\Mux_4to1.v|
-R10
-Z67 n@mux_4to1
-Z68 !s108 1714401133.269000
-Z69 !s107 d:\ModelSim\Lab04\Mux_4to1.v|
+R9
+Z189 n@mux_4to1
+Z190 !s100 0?5Cf=Qkie?EjQ[eKQX4T1
+Z191 !s108 1715397816.979000
+Z192 !s107 d:\ModelSim\Lab05\Mux_4to1_1.v|
+Z193 !s90 -nologo|-work|D:\ModelSim\Lab_11127137\work\|d:\ModelSim\Lab05\Mux_4to1_1.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vRCA3
+Z194 IEI7<CGL5YaHABazAG[CHh2
+Z195 VlS9G?AO]hUd1:zVmh5ZgU0
+R36
+Z196 w1715667572
+Z197 8d:\ModelSim\Lab_Exam\RCA3.v
+Z198 Fd:\ModelSim\Lab_Exam\RCA3.v
+L0 3
+R7
+r1
+31
+Z199 !s90 -nologo|-work|D:\ModelSim\Lab_11127137\work\|d:\ModelSim\Lab_Exam\RCA3.v|
+R9
+Z200 n@r@c@a3
+Z201 !s100 ?Ko9T:]4YbM]?0^gk2?8z0
+Z202 !s108 1715667572.197000
+Z203 !s107 d:\ModelSim\Lab_Exam\RCA3.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vRCA4
-Z70 IVlld_RU1VUzK5NU3HjF8S3
-Z71 V[XNf^Y5@28A=V`ZB7e`YD2
-R4
-Z72 w1710210997
-Z73 8d:\ModelSim\Lab02\RCA4.v
-Z74 Fd:\ModelSim\Lab02\RCA4.v
+Z204 IXk`XdYEGd>iael3RV:eek2
+Z205 V[XNf^Y5@28A=V`ZB7e`YD2
+R36
+Z206 w1711973140
+Z207 8d:\ModelSim\Lab03\RCA4.v
+Z208 Fd:\ModelSim\Lab03\RCA4.v
 L0 3
-R8
+R7
 r1
 31
-R10
-Z75 n@r@c@a4
-Z76 !s100 i1kKNG5N5WQTzN0lb2Zhz0
-Z77 !s108 1714739544.919000
-Z78 !s107 d:\ModelSim\Lab02\RCA4.v|
-Z79 !s90 -nologo|-work|D:\ModelSim\Lab_11127137\work\|d:\ModelSim\Lab02\RCA4.v|
+R9
+Z209 n@r@c@a4
+Z210 !s100 WUPP3SMOz:WK^7UVSSV^;3
+Z211 !s108 1715408316.042000
+Z212 !s107 d:\ModelSim\Lab03\RCA4.v|
+Z213 !s90 -nologo|-work|D:\ModelSim\Lab_11127137\work\|d:\ModelSim\Lab03\RCA4.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vShifter
+Z214 Ib<S4O6?BkZ8GT3z=4e5]Q3
+Z215 VW4Y9mTTh_Ua_2i7e?>O`L1
+R3
+R17
+Z216 8e:\Coding\Computer-Organization\alu\Shifter.v
+Z217 Fe:\Coding\Computer-Organization\alu\Shifter.v
+L0 2
+R7
+r1
+31
+Z218 !s90 -nologo|-work|D:\ModelSim\Lab_11127137\work\|e:\Coding\Computer-Organization\alu\Shifter.v|
+R9
+Z219 n@shifter
+Z220 !s100 T1B4_^TO^YXgzP73aILC82
+Z221 !s108 1715259165.684000
+Z222 !s107 e:\Coding\Computer-Organization\alu\Shifter.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtb_ALU
+Z223 I^;o^zT@0>XR[oIOdBMOPj2
+Z224 VJ;TnOjHFn3KbASFPGPEl41
+R3
+Z225 w1715259426
+Z226 8e:\Coding\Computer-Organization\alu\tb_ALU.v
+Z227 Fe:\Coding\Computer-Organization\alu\tb_ALU.v
+L0 2
+R7
+r1
+31
+Z228 !s90 -nologo|-work|D:\ModelSim\Lab_11127137\work\|e:\Coding\Computer-Organization\alu\tb_ALU.v|
+R9
+Z229 ntb_@a@l@u
+Z230 !s100 X3MM5mMeFVKF1^9MfQ^Og1
+Z231 !s108 1715259427.024000
+Z232 !s107 e:\Coding\Computer-Organization\alu\tb_ALU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtb_shifter
+Z233 !s100 jk5eEVU=_2VkCYgg?neS81
+Z234 IQ4gL>_KEKhj4YVAlS21S31
+Z235 VzcYH0VzV1[8dI7gO<jbj`1
+R3
+Z236 w1715070274
+Z237 8e:\Coding\Computer-Organization\alu\tb_shifter.v
+Z238 Fe:\Coding\Computer-Organization\alu\tb_shifter.v
+L0 3
+R7
+r1
+31
+Z239 !s90 -nologo|-work|D:\ModelSim\Lab_11127137\work\|e:\Coding\Computer-Organization\alu\tb_shifter.v|
+R9
+Z240 !s108 1715209224.208000
+Z241 !s107 e:\Coding\Computer-Organization\alu\tb_shifter.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vTM
-!i10b 1
-!s100 IclWB7]WY?<jV1=fH<KIn0
-ID9Y5fNa;:_g8o_T>zI4B11
-Z80 VChLbPkc@oY[7<?C?j]<G72
-R4
-w1714739716
-Z81 8d:\ModelSim\Lab07\TM_counter_and_sel.v
-Z82 Fd:\ModelSim\Lab07\TM_counter_and_sel.v
+Z242 I<YX=ebo5G[<MjJk0e8??i0
+Z243 VChLbPkc@oY[7<?C?j]<G72
+R36
+Z244 w1715668012
+Z245 8d:\ModelSim\Lab_Exam\TM.v
+Z246 Fd:\ModelSim\Lab_Exam\TM.v
 L0 3
-R8
+R7
 r1
-!s85 0
 31
-!s108 1714739716.393000
-!s107 d:\ModelSim\Lab07\TM_counter_and_sel.v|
-Z83 !s90 -nologo|-work|D:\ModelSim\Lab_11127137\work\|d:\ModelSim\Lab07\TM_counter_and_sel.v|
-!s101 -O0
-R10
+Z247 !s90 -nologo|-work|D:\ModelSim\Lab_11127137\work\|d:\ModelSim\Lab_Exam\TM.v|
+R9
 n@t@m
+!i10b 1
+Z248 !s100 @cdP7^T;ORHJ5:COFnI=M1
+!s85 0
+Z249 !s108 1715668012.267000
+Z250 !s107 d:\ModelSim\Lab_Exam\TM.v|
+!s101 -O0
 vTM_Mux_4to1
-Z84 !s100 eXfaOQQDHZLOfYhoZ:8S:2
-Z85 IW`SDhZLzNgY?jX7aBJX<a0
-Z86 VeDe3i?^m6_m]PVjV7RE8Z3
-R4
-Z87 w1713111010
-Z88 8d:\ModelSim\Lab05\TM_Mux_4to1.v
-Z89 Fd:\ModelSim\Lab05\TM_Mux_4to1.v
+Z251 !s100 eXfaOQQDHZLOfYhoZ:8S:2
+Z252 IW`SDhZLzNgY?jX7aBJX<a0
+Z253 VeDe3i?^m6_m]PVjV7RE8Z3
+R36
+Z254 w1713111010
+Z255 8d:\ModelSim\Lab05\TM_Mux_4to1.v
+Z256 Fd:\ModelSim\Lab05\TM_Mux_4to1.v
 L0 3
-R8
+R7
 r1
 31
-Z90 !s90 -nologo|-work|D:\ModelSim\Lab_11127137\work\|d:\ModelSim\Lab05\TM_Mux_4to1.v|
-R10
-Z91 n@t@m_@mux_4to1
-Z92 !s108 1714400789.945000
-Z93 !s107 d:\ModelSim\Lab05\TM_Mux_4to1.v|
+Z257 !s90 -nologo|-work|D:\ModelSim\Lab_11127137\work\|d:\ModelSim\Lab05\TM_Mux_4to1.v|
+R9
+Z258 n@t@m_@mux_4to1
+Z259 !s108 1714400789.945000
+Z260 !s107 d:\ModelSim\Lab05\TM_Mux_4to1.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vTM_RCA4
-Z94 !s100 [nX[0<RElPWPd0OkB_z8c1
-Z95 I9gG=IaG@n?UY[632z@1k`2
-Z96 VmGWH^I4?n@;a7>nGRD^O]2
-R4
-Z97 w1710229711
-Z98 8d:\ModelSim\Lab03\TM_RCA4.v
-Z99 Fd:\ModelSim\Lab03\TM_RCA4.v
+Z261 !s100 [nX[0<RElPWPd0OkB_z8c1
+Z262 I9gG=IaG@n?UY[632z@1k`2
+Z263 VmGWH^I4?n@;a7>nGRD^O]2
+R36
+Z264 w1710229711
+Z265 8d:\ModelSim\Lab03\TM_RCA4.v
+Z266 Fd:\ModelSim\Lab03\TM_RCA4.v
 L0 3
-R8
+R7
 r1
 31
-Z100 !s90 -nologo|-work|D:\ModelSim\Lab_11127137\work\|d:\ModelSim\Lab03\TM_RCA4.v|
-R10
-Z101 n@t@m_@r@c@a4
-Z102 !s108 1712578022.125000
-Z103 !s107 d:\ModelSim\Lab03\TM_RCA4.v|
+Z267 !s90 -nologo|-work|D:\ModelSim\Lab_11127137\work\|d:\ModelSim\Lab03\TM_RCA4.v|
+R9
+Z268 n@t@m_@r@c@a4
+Z269 !s108 1712578022.125000
+Z270 !s107 d:\ModelSim\Lab03\TM_RCA4.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTotalALU
+Z271 !s100 kG1TN:>_9M8?e0a_6[?LX0
+Z272 IKgz;8Z=cFz^=aSM40RO0Z3
+Z273 VFaMDT2TYF6lBSO79WXUC:2
+R3
+Z274 w1715226917
+Z275 8e:\Coding\Computer-Organization\alu\TotalALU.v
+Z276 Fe:\Coding\Computer-Organization\alu\TotalALU.v
+L0 2
+R7
+r1
+31
+Z277 !s90 -nologo|-work|D:\ModelSim\Lab_11127137\work\|e:\Coding\Computer-Organization\alu\TotalALU.v|
+R9
+Z278 n@total@a@l@u
+Z279 !s108 1715226917.822000
+Z280 !s107 e:\Coding\Computer-Organization\alu\TotalALU.v|
 !i10b 1
 !s85 0
 !s101 -O0
